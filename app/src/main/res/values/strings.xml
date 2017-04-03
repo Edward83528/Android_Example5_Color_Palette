@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Color_Palette</string>
+    <string name="red">紅色</string>
+    <string name="green">綠色</string>
+    <string name="blue">藍色</string>
+    <string name="change_color">文字的顏色</string>
+    <string-array name="species">Change_color
+        <item>前景色</item>
+        <item>背景色</item>
+    </string-array>
+</resources>
